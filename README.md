@@ -30,8 +30,14 @@ If the underlying data distribution is not normal, then you could transform (e.g
 Even if the correlation coefficient is at or near zero, that doesn’t mean no relationship exists. It’s just that the relationship isn’t linear, but there could be other relationships which is why it’s important to visualize your variables beforehand.
 
 ## Exploratory Visualization and Correlation Analysis
-We will be using this marketing dataset.
+- We will be using this marketing dataset.
+- The data contains the sales data for two consecutive years of a product of a non-specified brand. Each row contains the Volume of Sales for a week and includes additional information or various promotion methods for that product for each week. Let’s inspect the dataset.
+![image](https://github.com/LangatErick/Learning_Labs-3-correlation-analysis-to-improve-marketing-performance/assets/124883947/7908c46a-b7c8-4cef-8a27-995be5db92b4)
+
+### Let’s do some exploratory data visualization of our dataset.
 ![image](https://github.com/LangatErick/Learning_Labs-3-correlation-analysis-to-improve-marketing-performance/assets/124883947/134c592b-7b8a-4fd7-994a-269b8d1c4eb1)
 
 ![image](https://github.com/LangatErick/Learning_Labs-3-correlation-analysis-to-improve-marketing-performance/assets/124883947/68311b20-ebaa-4a95-b430-609cd27206fb)
+
+
 
