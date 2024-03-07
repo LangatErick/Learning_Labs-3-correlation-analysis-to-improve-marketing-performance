@@ -33,11 +33,25 @@ Even if the correlation coefficient is at or near zero, that doesn’t mean no r
 - We will be using this marketing dataset.
 - The data contains the sales data for two consecutive years of a product of a non-specified brand. Each row contains the Volume of Sales for a week and includes additional information or various promotion methods for that product for each week. Let’s inspect the dataset.
 ![image](https://github.com/LangatErick/Learning_Labs-3-correlation-analysis-to-improve-marketing-performance/assets/124883947/7908c46a-b7c8-4cef-8a27-995be5db92b4)
-
 ### Let’s do some exploratory data visualization of our dataset.
 ![image](https://github.com/LangatErick/Learning_Labs-3-correlation-analysis-to-improve-marketing-performance/assets/124883947/134c592b-7b8a-4fd7-994a-269b8d1c4eb1)
 
 ![image](https://github.com/LangatErick/Learning_Labs-3-correlation-analysis-to-improve-marketing-performance/assets/124883947/68311b20-ebaa-4a95-b430-609cd27206fb)
 
 
+![image](https://github.com/LangatErick/Learning_Labs-3-correlation-analysis-to-improve-marketing-performance/assets/124883947/35b7a267-5c37-4896-af0f-8f000bcd6fac)
+## What can we tell from the exploratory data visualization?
 
+- Sales appear to be relatively normal with perhaps a bit of right skew, but not enough to be particularly worrying.
+
+- Higher sales when the base price is low. Fewer sales when the base price is high.
+
+- Stout seems to hurt sales. Not sure what stout refers to as it was not included in the data dictionary and the data source is anonymous.
+
+- InStore appears to have a positive impact on sales.
+
+- Both Radio & TV impacts are inconclusive. More sales when radio & tv spending is going on, but not necessarily always the case.
+
+- Newspaper insert doesn’t appear to have any significant impact on sales.
+
+- Website Campaigns appear to have more sales when there is Twitter engagement, but it doesn’t appear to be significantly different when there is no website campaign going on.
